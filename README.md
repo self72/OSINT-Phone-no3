@@ -15,7 +15,7 @@ sudo apt update
 
 
 ```bash
-git clone https://github.com/sself72/OSINT-Phone-no3.git
+git clone https://github.com/self72/OSINT-Phone-no3.git
 ```
 
 ---
